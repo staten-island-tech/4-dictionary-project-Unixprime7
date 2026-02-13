@@ -22,9 +22,14 @@ martwal = [
 
 print("Product options:  Pikachu, Rock, Actual_Product_Trust")
 buying = input("What would you like to buy? ")
-if buying == "Pikachu":
-    print(martwal[0]["name"])
-elif buying == "Rock":
-    print(martwal[1]["name"])
-elif buying == "Actual_Product_Trust":
-    print(martwal[2]["name"])
+still_buying = 1
+while still_buying == 1:
+    
+
+
+# if buying == "Pikachu":
+#     print(martwal[0]["name"])
+# elif buying == "Rock":
+#     print(martwal[1]["name"])
+# elif buying == "Actual_Product_Trust":
+#     print(martwal[2]["name"])
